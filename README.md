@@ -19,5 +19,5 @@ This installer installs the following set of modules
 Execute the following command as a user with root privileges.
 
 ```
-curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Laravel-Library-Installer/script.bash | bash
+curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Laravel-Library-Installer/master/script.bash | bash
 ```
